@@ -2,10 +2,17 @@
 ConvaTec is a global company which produces a wide range of disposable medical devices for patient care as well as at hospital so at home.
 
 Surgery
+* Drainage catheters
+* Drainage bags
+* Theroida Set
 
 *OP-Flex product range
 
 Anesthesiology & Resuscitation
+* Anesthesia masks
+* Endotracheal tubes
+* Tracheostomical tubes
+* Saction catheters
 
 * Oxygen masks
 * Oxygen cannulas
@@ -18,13 +25,13 @@ Anesthesiology & Resuscitation
 
 Ostomy
 
-1-pieces devices
-2-pieces devices
-moldable devices
+* 1-pieces devices
+* 2-pieces devices
+* Moldable devices
 
 Urology
 
-pediatric urine bags
+* Pediatric urine bags
 Hourly control diuresis system Unometer Safeti Plus
 Intraabdominal pressure management device Unometer Abdo-Pressure
 Foley catheters
